@@ -1,6 +1,6 @@
 day 1
 pwd - show current directory
-ls - lsit files
-mkdir - making directory
+ls - list files
+mkdir - make directory
 cat - display file content
-touch - create file
+touch - create empty file
